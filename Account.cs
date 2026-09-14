@@ -9,5 +9,7 @@ public class Account
     public void Deposit(int amount)
     {
         Console.WriteLine("Sigma");
+        Console.WriteLine("Nisse did a bad choice!");
+
     }
 }
